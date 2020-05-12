@@ -4,7 +4,7 @@ Learning NodeJS
 
 ## Authors
 
-Atul Yadav - [GitHub](https://github.com/ankit90202) &bull; [Twitter](https://twitter.com/ankit90202)
+Ankit Tiwari - [GitHub](https://github.com/ankit90202) &bull; [Twitter](https://twitter.com/ankit90202)
 
 ## License
 
